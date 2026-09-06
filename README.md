@@ -210,8 +210,6 @@ Multiple forecasting approaches were benchmarked using **WMAPE (Weighted Mean Ab
 | Naive — Last Week       |     28.31% |
 | Moving Average — 4 Week |     25.76% |
 | Random Forest           | **20.94%** |
-| Gradient Boosting       |     21.13% |
-
 ### 🏆 Winning Model: Random Forest
 
 The Random Forest model achieved the lowest WMAPE among the tested approaches.
@@ -507,7 +505,6 @@ Key concepts:
 * Festive-season features
 * Time-series train/test split
 * Random Forest
-* Gradient Boosting
 * WMAPE evaluation
 
 ### Machine Learning
